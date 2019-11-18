@@ -399,3 +399,5 @@ Lalu kita import datasetnya dengan cara
 ongoimport -h 192.168.33.13:27017 -u mongo-admin -d restaurantDB -c restaurantcl --type CSV --file rows.csv\?accessT
 ype\=DOWNLOAD --headerline --authenticationDatabase admin
 ```
+
+<img src="images/mongo.PNG">
